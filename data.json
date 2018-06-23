@@ -1,0 +1,25 @@
+
+{
+  "basics":{
+    "name":"RAJI",
+     "email":"rajirajyalakshmia6@gmail.com",
+      "mobile":"9440645824"
+    },
+    "education":[
+      {
+        "degree":"B.tech",
+        "institute":"pottisriramulu chalavadi mallikarjunarao college of engineering and technology",
+        "data":["2015-19","80%"]
+      },
+      {
+        "degree":"intermediate",
+        "institute":"sri chaitanya junior college",
+        "data":["2013-15","93%"]
+      },
+      {
+        "degree":"S.S.C",
+        "institute":"ravindra bharathi school",
+        "data":["2012-13","95%"]
+      }
+    ]
+}
