@@ -5,6 +5,9 @@
      "email":"rajirajyalakshmia6@gmail.com",
       "mobile":"9440645824"
     },
+    "careerobjective":{
+      "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+    },
     "education":[
       {
         "degree":"B.tech",
@@ -21,5 +24,33 @@
         "institute":"ravindra bharathi school",
         "data":["2012-13","95%"]
       }
+    ],
+    "achievements":[
+        {
+          "nameofachivement":"Awarded as <b>1<sup>st</sup>prize</b> in <q>poster presentation</q>"
+            },
+        {
+          "nameofachivement":"Awarded as <strong>1<sup>st</sup>prize</strong> in <q>quiz competition</q>"
+        }
+    ],
+    "technicalskills":[
+      {
+
+       "name":"programming languages",
+       "data":["C","Java","Pyhton","Php","C++","javascript"]
+     },
+
+      {
+        "name":"databases",
+        "data":["oracle","mysql"]
+      },
+      {
+        "name":"web technologies",
+        "data":["HTML","CSS","javascript"]
+      },
+      {
+        "name":"libraries",
+        "data":["JQuery","codeignitor"]
+      }
     ]
-}
+    }
